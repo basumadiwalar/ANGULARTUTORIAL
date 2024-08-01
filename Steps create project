@@ -1,0 +1,7 @@
+node -v check
+npm -v
+ng version
+npm install -g @angular/cli@17 check whether cli intalled r not
+ng new my-first-project
+cd my-first-project
+ng serve 
