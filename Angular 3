@@ -3,3 +3,4 @@ MODULE- ONE OR MORE COMPONENTS
 COMPONENTS HTML+CLASS
 SERVICES = BUSINESS LOGIC
 Modules interact ultimetly render the view in browswer
+ng g c test its for creating new file in it
